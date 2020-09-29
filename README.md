@@ -1,2 +1,3 @@
 # hello-world
-Hey GitHub on Day 1
+
+Super excited on Day 1 as a Hubber
